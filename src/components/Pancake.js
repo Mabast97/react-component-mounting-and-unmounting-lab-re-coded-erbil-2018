@@ -9,7 +9,10 @@ class Pancake extends React.Component {
       timeCooked: 0,
       flippedAt: undefined
     };
+<<<<<<< HEAD
     
+=======
+>>>>>>> bfc751aa52ea7c96a4f15094593330db22fd05df
   }
 
   componentDidMount() {
